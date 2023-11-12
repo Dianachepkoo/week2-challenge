@@ -1,0 +1,27 @@
+your-bot-army {
+    display: flex;
+    padding: 5px;
+    justify-content: center;
+    background-color: greenyellow;
+    min-height: 350px;
+}
+
+.cards{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100%;
+    background-color: black;
+}
+
+.card-wrapper {
+    background-color: white;
+    min-width: 130px;
+    min-height: 180px;
+    align-items: center;
+    text-align: center;
+    margin: 10px;
+}
+.avatar{
+    width: 120px;
+}
